@@ -19,17 +19,11 @@
 
 ###
 
-![snake animation](https://github.com/<leidyandrade>/<leidyandrade>/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="left">
   
-   
-    
-  
- 
-
-
-<div align="left">
+     
+ <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
