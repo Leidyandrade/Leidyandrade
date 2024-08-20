@@ -1,6 +1,6 @@
 ## Olá 👋, bem-vindo(a) ao meu perfil do Github </h2>
 
-- Meu nome é Leidiane, sou uma Analista de dados em desenvolvimento
+- Meu nome é Leidiane, sou uma Cientista de dados em desenvolvimento
 
 ## My Techs
 
